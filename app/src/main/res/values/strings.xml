@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="program_ini_dibuat_oleh_bayu_fajariyanto" />
+    <string name="github" />
+    <string name="Contact" />
+    <string name="about" />
+    <string name="title_activity_home">Home</string>
+</resources>
